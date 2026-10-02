@@ -1,0 +1,24 @@
+{
+    "id": "{GUID}",
+    "name": "{Extension Name}",
+    "publisher": "Styllar Pty Ltd",
+    "version": "1.0.0.0",
+    "brief": "{Short description of the extension}",
+    "description": "{Longer description of the extension}",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "./logo/Styllar-icon.png",
+    "dependencies": [],
+    "screenshots": [],
+    "runtime": "14.0",
+    "platform": "27.0.0.0",
+    "application": "27.0.0.0",
+    "idRanges": [
+        {
+            "from": 50000,
+            "to": 50149
+        }
+]
+}

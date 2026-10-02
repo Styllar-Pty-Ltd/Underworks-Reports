@@ -1,0 +1,17 @@
+{
+  "framework": "OCPF BC Agentic Development Framework",
+  "edition": "lite",
+  "runbookVersion": "3.1.0.0",
+  "source": "github",
+  "repository": "https://github.com/ajansari/ocpfBcAgenticDevFramework",
+  "ref": "main",
+  "commitSha": "a855a20403882a3cc5aff20a6d4f276c4cc5bda3",
+  "fetchedAt": "2026-09-23T00:00:00Z",
+  "placedAs": [
+    ".github/instructions/ocpf-framework.instructions.md"
+  ],
+  "changelogFile": "LITE_RunbookChangeLog.md",
+  "pluginVersion": "unknown",
+  "declinedUpdateVersion": null,
+  "alMcp": "not-checked"
+}
