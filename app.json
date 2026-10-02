@@ -1,24 +1,28 @@
 {
-    "id": "{GUID}",
-    "name": "{Extension Name}",
-    "publisher": "Styllar Pty Ltd",
-    "version": "1.0.0.0",
-    "brief": "{Short description of the extension}",
-    "description": "{Longer description of the extension}",
-    "privacyStatement": "",
-    "EULA": "",
-    "help": "",
-    "url": "",
-    "logo": "./logo/Styllar-icon.png",
-    "dependencies": [],
-    "screenshots": [],
-    "runtime": "14.0",
-    "platform": "27.0.0.0",
-    "application": "27.0.0.0",
-    "idRanges": [
-        {
-            "from": 50000,
-            "to": 50149
-        }
-]
+  "id": "9f4a8c76-3b1d-4e50-9271-2d58a3e74b6e",
+  "name": "Underworks Reports",
+  "publisher": "Styllar Pty Ltd",
+  "version": "1.0.0.0",
+  "brief": "Underworks Reports Extension",
+  "description": "Underworks Reports Extension for Microsoft Dynamics 365 Business Central, providing custom reporting and document layouts.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "logo/Logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 52000,
+      "to": 52149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  }
 }
